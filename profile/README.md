@@ -10,12 +10,15 @@ Plus qu'une compétence technique ou métier, nous souhaitons leur apporter un r
 **Tous les chemins mènent au Nid* ! (*nom des bureaux de l'entreprise)**
 
 🌏 Notre site web est disponible à [https://www.valeuriad.fr/](https://www.valeuriad.fr/).
+
 📩 Il y a aussi une adresse mail [bavardons@valeuriad.fr](bavardons@valeuriad.fr)
+
 Et il est aussi possible de créer une issue pour prendre contact !
 
 ### Que va-t-il se passer ici ?
 
 Ce groupe GitHub a pour vocation de regrouper les différents projets open-source portés par nos coéquipiers (dans le cadre de projets cagnottes, personnels ou collaboratifs), les sources pour des conférences ou formations, et tout autre types de projets permettant de monter en compétences ou faire valoir l'expertise des Valeurieux.
+
 Certaines sources vers des conférences du Printemps de la Tech', notre salon interne annuel, seront également disponibles.
 
 ### Qui sont les gens qui composent Valeuriad ?

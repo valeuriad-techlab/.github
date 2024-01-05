@@ -19,7 +19,7 @@ Et il est aussi possible de créer une issue pour prendre contact !
 
 Ce groupe GitHub a pour vocation de regrouper les différents projets open-source portés par nos coéquipiers (dans le cadre de projets cagnottes, personnels ou collaboratifs), les sources pour des conférences ou formations, et tout autre types de projets permettant de monter en compétences ou faire valoir l'expertise des Valeurieux.
 
-Certaines sources vers des conférences du Printemps de la Tech', notre salon interne annuel, seront également disponibles.
+Certaines sources des conférences du Printemps de la Tech', notre salon interne annuel, seront également disponibles.
 
 ### Qui sont les gens qui composent Valeuriad ?
 
